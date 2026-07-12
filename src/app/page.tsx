@@ -33,7 +33,7 @@ export default function Home() {
               </Link>
 
               <a
-                href="/resume/Muhammad_Nur_Aiman_resume.pdf"
+                href="/resume/Muhammad_Nur_Aiman_Resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="rounded-lg border border-slate-600 px-6 py-3 font-medium transition hover:border-slate-400 hover:bg-white/5"
